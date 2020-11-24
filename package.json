@@ -1,0 +1,15 @@
+{
+  "name": "project_2 - build a simple private blockchain",
+  "version": "1.0.0",
+  "description": "Build a simple private blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranveer Oshan",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "level": "^6.0.1"
+  }
+}
